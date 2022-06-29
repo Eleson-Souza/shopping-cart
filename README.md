@@ -23,4 +23,4 @@ Aplicação de um carrinho de compras para calçados. Entre as funcionalidades, 
 
 ## 💻 Web
 
-<img src="./archives/demoCart.gif" width="600" />
+<img src="./archives/demoCart.gif" width="900" />
